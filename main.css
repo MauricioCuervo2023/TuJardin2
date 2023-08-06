@@ -1,0 +1,58 @@
+.navbar-nav .nav-link {
+  font-size: 30px; /* Puedes ajustar el tamaño a tu preferencia */
+}
+
+.navbar-brand {
+  font-size: 60px; /* Puedes ajustar el tamaño a tu preferencia */
+}
+
+.carrusel h5 {
+  font-size: 40px;
+}
+
+.carrusel h6 {
+  font-size: 20px;
+}
+
+.carrusel p {
+  font-size: 30px;
+}
+
+.container {
+  padding-top: 30px;
+  padding-bottom: 20px;  
+}
+
+.card-group h7 {
+  font-size: 40px;
+  }
+
+.card-group p {
+  font-size: 30px;
+}
+.row h5 {
+  font-size: 40px;
+}
+
+  
+.nav-item a {
+  color:black
+}
+
+.row p {
+  font-size: 25px;
+}
+
+.container i {
+  font-size: 50px;
+}
+
+.card h7 {
+  font-size: 40px;
+}
+
+.col-md-4 p {
+  align-items: center;
+  justify-content: center;
+  
+}
